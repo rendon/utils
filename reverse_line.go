@@ -1,4 +1,4 @@
-// Utility to reverse lines in a file
+// Utility to reverse a single line of text
 package main
 
 import (
